@@ -5,6 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fukada.us" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
+analytics: UA-122086567-1
 # Author Settings
 author: Hiroshi Fukada
 author-img: me_blur.jpg # add your photo
