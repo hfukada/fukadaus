@@ -6,10 +6,10 @@ img: "aac_miso_soup/finished.jpg"
 tags: [miso, soup, cooking]
 comments: false
 ---
-Miso soup is probably one of the more iconic of Japanese dishes. It is served as a side dish to many meals and is a staple of Japanese cuisine. It has a strong flavor and is best paired with other strong flavors like savory-meat centric dishes. The basis of the recipe is straight forward and has lots of room for flexibility.
+Miso soup is one of the more iconic Japanese dishes. It is served as a side dish with many meals and is a staple of Japanese cuisine. It has a strong flavor and is best paired with other strong flavors like savory-meat centric dishes. The basis of the recipe is straight forward and has lots of room for flexibility.
 
 ## Ingredients for Base
-- Miso Paste: about 75-80g
+- Miso Paste: about 75-80g ( This recipe uses white miso, but any paste will work )
 - Dashi Stock: 1 tsp
 - Water: 1L
 - Green Onions: 1 Stick
@@ -29,7 +29,7 @@ There are many combinations of ingredients that can be used for miso soup. This 
 - Shimeji Mushrooms
 
 ## Steps
-1. Bring the water to a light boil and Dashi stock to the water.
+1. Bring the water to a light boil and add Dashi stock to the water.
 
     ![About this much dashi]({{ "/assets/img/aac_miso_soup/add_dashi.jpg" }}){:width="600px"}
 
@@ -41,7 +41,7 @@ There are many combinations of ingredients that can be used for miso soup. This 
 
     ![Daikon into the pot]({{ "/assets/img/aac_miso_soup/daikon_in.jpg" }}){:width="600px"}
 
-4. After about 5 minutes add in the seaweed and tofu. Note: A lot of times, packages of dried seaweed may suggest to let the seaweed sit in a separate bowl of water before using. This is unnecessary for our purposes; just toss the dry seaweed into the pot.
+4. After about 5 minutes, add in the seaweed and tofu. Packages of dried seaweed may suggest to let the seaweed sit in a separate bowl of water before using. This is unnecessary for our purposes; just toss the dry seaweed into the pot.
 
     ![Boiling]({{ "/assets/img/aac_miso_soup/boiling.jpg" }} ){:width="600px"}
 
@@ -49,7 +49,7 @@ There are many combinations of ingredients that can be used for miso soup. This 
 
     [![Mix 'n Whisk]({{ "/assets/img/aac_miso_soup/miso_whisk.jpg" }}){:width="600px"}](/assets/img/aac_miso_soup/miso_whisk.webm)
 
-6. Add in fresh chopped green onions to finish. Note: The green onions should be fresh and should be added at the last moment.
+6. Add in fresh chopped green onions to finish. Green onions will be crisp when added at the last moment.
 
     ![Single bowl of miso soup]({{ "/assets/img/aac_miso_soup/miso_soup.jpg" }}){:width="600px"}
 
