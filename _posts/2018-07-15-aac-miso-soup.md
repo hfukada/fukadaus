@@ -29,33 +29,31 @@ There are many combinations of ingredients that can be used miso soup. This is a
 - Shimeji Mushrooms
 
 ## Steps
-1. Bring the water to a light boil.
+1. Bring the water to a light boil and Dashi stock to the water.
 
-2. Add Dashi stock to the water.
+    ![About this much dashi]({{ "/assets/img/aac_miso_soup/add_dashi.jpg" }}){:width="600px"}
 
-  ![About this much dashi]({{ "/assets/img/aac_miso_soup/dashi_in.jpg" }}){:width="600px"}
+2. Slice daikon into sticks, and Tofu into cubes. Below are about the sizes and shapes of the cuts.
 
-3. Slice daikon into sticks, and Tofu into cubes. Below are about the sizes and shapes of the cuts.
-
-  ![Approximate cuts]({{ "/assets/img/aac_miso_soup/cuts.jpg" }}){:width="600px"}
+    ![Approximate cuts]({{ "/assets/img/aac_miso_soup/cuts.jpg" }}){:width="600px"}
 
 
-4. Add the sliced Daikon first into the pot. Since daikon is a bit tougher, it is good to let them boil a little longer.
+3. Add the sliced Daikon first into the pot. Since daikon is a bit tougher, it is good to let them boil a little longer.
 
-  ![Daikon into the pot]({{ "/assets/img/aac_miso_soup/daikon_in.jpg" }}){:width="600px"}
+    ![Daikon into the pot]({{ "/assets/img/aac_miso_soup/daikon_in.jpg" }}){:width="600px"}
 
-5. After about 5 minutes add in the seaweed and tofu. Note: A lot of times, packages of dried seaweed may suggest to let the seaweed sit in a separate bowl of water before using. This is unnecessary for our purposes; just toss the dry seaweed into the pot.
+4. After about 5 minutes add in the seaweed and tofu. Note: A lot of times, packages of dried seaweed may suggest to let the seaweed sit in a separate bowl of water before using. This is unnecessary for our purposes; just toss the dry seaweed into the pot.
 
-  ![Boiling]({{ "/assets/img/aac_miso_soup/boiling.jpg" }} ){:width="600px"}
+    ![Boiling]({{ "/assets/img/aac_miso_soup/boiling.jpg" }} ){:width="600px"}
 
-6. After about 10 minutes of boiling take the pot off the heat, and begin to mix/whisk in the Miso paste. Miso is incredibly aromatic, so limiting the amount of heat for the miso keeps the flavor better.
+5. After about 10 minutes of boiling take the pot off the heat, and begin to mix/whisk in the Miso paste. Miso is incredibly aromatic, so limiting the amount of heat for the miso keeps the flavor better.
 
-  ![Mix 'n Whisk]({{ "/assets/img/aac_miso_soup/miso_whisk.webm" }}){:width="600px"}
+    [![Mix 'n Whisk]({{ "/assets/img/aac_miso_soup/miso_whisk.jpg" }}){:width="600px"}](/assets/img/aac_miso_soup/miso_whisk.webm)
 
-7. Add in fresh chopped green onionsdd in fresh chopped green onions to finish.
-  
-  ![Single bowl of miso soup]({{ "/assets/img/aac_miso_soup/miso_soup.jpg" }}){:width="600px"}
+6. Add in fresh chopped green onionsdd in fresh chopped green onions to finish.
 
-8. Serve hot alongside another dish to me.
+    ![Single bowl of miso soup]({{ "/assets/img/aac_miso_soup/miso_soup.jpg" }}){:width="600px"}
 
-  ![Finished. Please no judge my meal]({{ "/assets/img/aac_miso_soup/finished.jpg" }}){:width="600px"}
+7. Serve hot alongside another dish and please send me your miso soup in tupperware containers.
+
+    ![Finished. Please no judge my meal]({{ "/assets/img/aac_miso_soup/finished.jpg" }}){:width="600px"}
