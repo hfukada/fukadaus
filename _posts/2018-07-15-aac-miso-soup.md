@@ -33,7 +33,7 @@ There are many combinations of ingredients that can be used for miso soup. This 
 
     ![About this much dashi]({{ "/assets/img/aac_miso_soup/add_dashi.jpg" }}){:width="600px"}
 
-2. Slice the daikon into sticks, and the tofu into cubes. Below are about the sizes and shapes of the cuts.
+2. Slice the daikon into sticks, and the tofu into cubes. Below are about the sizes and shapes of the cuts. From left to right, top to bottom: cubed tofu, sliced nappa cabbage, sliced daikon, enoki mushrooms, and dried seaweed.
 
     ![Approximate cuts]({{ "/assets/img/aac_miso_soup/cuts.jpg" }}){:width="600px"}
 
