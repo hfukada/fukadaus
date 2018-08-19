@@ -61,6 +61,6 @@ Steps:
 
     ![Pepper pepper pepper]({{ "/assets/img/aac_chaahan/pepper.jpg" }}){:width="600px"}
 
-13. Make a mound and serve it on a plate. Look how great that looks. You are now a professional amatuer part time unpaid cooking food artisan.
+13. Make a mound and serve it on a plate. Look how great that looks. You are now a professional amateur part time unpaid cooking food artisan.
 
     ![Finished!]({{ "/assets/img/aac_chaahan/finished.jpg" }}){:width="600px"}
