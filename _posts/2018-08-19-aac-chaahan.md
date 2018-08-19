@@ -7,7 +7,7 @@ tags: [chaahan, aac, cooking]
 comments: false
 ---
 
-Chaahan, is just what Japan calls fried rice. The dish is flexible and probably doesn't need too much instruction. Usually composed of some vegetables, eggs, meat and rice. I like to make chaahan when I have leftover rice or older green onions that just need to be used up.
+Chaahan is just what Japan calls fried rice. The dish is flexible and probably doesn't need too much instruction. Usually composed of some vegetables, eggs, meat and rice. I like to make chaahan when I have leftover rice or older green onions that just need to be used up.
 
 Ingredients:
 - Rice: 2 Cups
@@ -21,7 +21,7 @@ Ingredients:
 
 
 Steps:
-1. Mince all the vegetables.
+1. Mince all of the vegetables.
 
     ![Minced vegetables]({{ "/assets/img/aac_chaahan/minced.jpg" }}){:width="600px"}
 
@@ -45,11 +45,11 @@ Steps:
 
     ![Rice on the side]({{ "/assets/img/aac_chaahan/ready_rice.jpg" }}){:width="600px"}
 
-9. Add eggs into the open space in the pan. Keep the eggs moving with the spatula until eggs start to solidify.
+9. Add the eggs into the open space in the pan. Keep the eggs moving with the spatula until the eggs start to solidify.
 
     ![This is about the consistency to aim for.]({{ "/assets/img/aac_chaahan/eggs_solidifying.jpg" }}){:width="600px"}
 
-10. Once the eggs start to solidfy, quickly add the rice into pan and stir. The goal is to cook the eggs onto the rice and other ingredients.
+10. Once the eggs start to solidfy, quickly add the rice into the pan and stir. The goal is to cook the eggs onto the rice and other ingredients.
 
     ![throw the rice in now]({{ "/assets/img/aac_chaahan/rice_in.jpg" }}){:width="600px"}
 
