@@ -7,7 +7,7 @@ tags: [mochi, yakimochi, aac, cooking]
 comments: false
 ---
 
-Here we go, let me solve your evening savory snack kick. Crunchy, chewy, savory mochi.
+Here we go, let me solve your evening savory snack kick. Crunchy, chewy, savory toasted mochi.
 
 Ingredients. probably:
 - Mochi blocks: Some
@@ -44,6 +44,6 @@ Steps:
 
     ![Drizzled Soy Sauce]({{ "/assets/img/aac_yakimochi/soysauce.jpg" }}){:width="600px"}
 
-10. Enjoy. We did something positive today.
+10. Enjoy. Try not to get the soy sauce on your white shirt.
 
     ![Ready to Eat]({{ "/assets/img/aac_yakimochi/finished.jpg" }}){:width="600px"}
