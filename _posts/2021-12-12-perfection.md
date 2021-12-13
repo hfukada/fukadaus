@@ -16,7 +16,7 @@ An interesting thing about perfection is that it may take a different shape depe
 
 
 ### Perfection is really really hard to achieve
-In the Google SRE book, it talks about the concept of [managing and embracing risk](https://sre.google/sre-book/embracing-risk/). The TL;DR of this chapter is "The cost of trying to build 100% reliable software, gets exponentially more expensive and time consuming the closer you get. Stop trying to reach 99.999% reliability when no one will notice the difference from 99.99%". Sure .01% or 0.001% of the time, something will fail and maybe something needs to be looked at. In some situations, maybe that's not okay, but maybe it is? It will depend on you and your team's judgement of the situation but __there should be a discussion__, rather than just accepting a body of work to fix.
+In the Google SRE book, it talks about the concept of [managing and embracing risk](https://sre.google/sre-book/embracing-risk/). The TL;DR of this chapter is "The cost of trying to build 100% reliable software, gets exponentially more expensive and time consuming the closer you get. Stop trying to reach 99.999% reliability when no one will notice the difference from 99.99%". Sure, .01% or 0.001% of the time, something will fail and maybe something needs to be looked at. In some situations, maybe that's not okay, but maybe it is? It will depend on you and your team's judgement of the situation but __there should be a discussion__, rather than just accepting a body of work to fix.
 
 
 ### But at What Cost
